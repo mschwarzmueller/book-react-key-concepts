@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import classes from './NewPost.module.css';
 
 function NewPost() {
